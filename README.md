@@ -1,8 +1,5 @@
-# React + Vite
+Feito utilizando: React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este projeto foi desenvolvido para fins de aprendizado, não para projetos reais. 
+Nele são abordados valores de formulários que se mantem entre troca de componentes (dinâmicos).
+O deploy deste projeto ainda não foi realizado então para visualiza-lo é necessario baixar os arquivos em seu editor de texto e rodar o "npm run dev"
